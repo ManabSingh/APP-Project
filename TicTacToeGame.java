@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 
 public class TicTacToeGame extends JFrame implements ActionListener {
 
-    // Constants for the game
+    
     private static final int BOARD_SIZE = 3;
     
     // Game state variables
